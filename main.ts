@@ -9,3 +9,9 @@ let person:[string , number] = ['richu',5]
 enum Color{Red , Green , Blue}
 let c: Color = Color.Green
 console.log(c);
+let randomValue :any = 2
+randomValue = 'hello'
+let unkownValue:unknown  = 10;
+let multiType:number | boolean;
+multiType = 2
+multiType = true

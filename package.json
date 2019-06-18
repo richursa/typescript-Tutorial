@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/richursa/typescript-Tutorial/issues"
   },
-  "homepage": "https://github.com/richursa/typescript-Tutorial#readme"
+  "homepage": "https://github.com/richursa/typescript-Tutorial#readme",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  }
 }
